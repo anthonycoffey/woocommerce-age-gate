@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce Age Gate
- * Description:
+ * Description: Appends a simple input field to checkout that is required, with custom error message if input is invalid.
  * Author: Anthony Coffey
  * Author URI: http://coffeywebdev.com
  * Version: 1.0
